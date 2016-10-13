@@ -1,8 +1,6 @@
 package com.wsadik.euler.problem0001;
 
-import java.util.*;
-import java.util.stream.*;
-import java.util.function.*;
+import java.util.stream.IntStream;
 
 /**
   Link: https://projecteuler.net/problem=1

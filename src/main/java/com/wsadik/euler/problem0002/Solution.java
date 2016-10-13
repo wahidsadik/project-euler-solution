@@ -1,9 +1,7 @@
 package com.wsadik.euler.problem0002;
 
-import java.util.*;
-import java.util.stream.*;
-import java.util.function.*;
-import one.util.streamex.*;
+import one.util.streamex.LongStreamEx;
+import one.util.streamex.StreamEx;
 
 /**
   Link: https://projecteuler.net/problem=2

@@ -1,10 +1,15 @@
 package com.wsadik.euler.problem0001;
 
+import static org.junit.Assert.assertEquals;
+
+import java.io.BufferedReader;
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.PrintStream;
+
 import org.junit.Test;
-import org.junit.Ignore;
-import static org.junit.Assert.*;
-import java.io.*;
-import java.nio.*;
 
 public class SolutionTest {
 

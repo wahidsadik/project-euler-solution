@@ -1,6 +1,6 @@
 # Project Euler Solutions
 
-My attempt to keep myself fit by solving [Project Euler](https://projecteuler.net) problem.
+My attempt to keep myself fit by solving [Project Euler](https://projecteuler.net) problems.
 
 ## Guidelines for solution
 
@@ -25,4 +25,4 @@ To run:
 
 To run particular from command line:
 
-- `$ ./gradlew clean jar; java -cp build/libs/project-euler-solutions.jar com.wsadik.euler.problem0001.Solution 10`
+- `$ ./gradlew clean jar && java -cp build/libs/project-euler-solutions.jar com.wsadik.euler.problem0001.Solution 10`
